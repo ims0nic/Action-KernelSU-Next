@@ -50,7 +50,7 @@ jobs:
         uses: easimon/maximize-build-space@master
         with:
           #root-reserve-mb: 24576
-          root-reserve-mb: 24576
+          root-reserve-mb: 32768
           #temp-reserve-mb: 8192
           temp-reserve-mb: 4096
           #swap-size-mb: 16384
